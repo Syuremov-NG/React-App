@@ -1,0 +1,15 @@
+[0m2021.03.02 10:54:51 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\Syur\OneDrive\Рабочий стол\Work\TestReactApp' for client vscode 1.53.2.[0m
+[0m2021.03.02 10:54:57 INFO  time: initialize in 6.14s[0m
+[0m2021.03.02 10:54:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.02 10:54:58 WARN  no build tool detected in workspace 'C:\Users\Syur\OneDrive\Рабочий стол\Work\TestReactApp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.02 14:30:28 INFO  shutting down Metals[0m
+[0m2021.03.02 16:19:32 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\Syur\OneDrive\Рабочий стол\Work\TestReactApp' for client vscode 1.53.2.[0m
+[0m2021.03.02 16:19:35 INFO  time: initialize in 3.02s[0m
+[0m2021.03.02 16:19:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.02 16:19:36 WARN  no build tool detected in workspace 'C:\Users\Syur\OneDrive\Рабочий стол\Work\TestReactApp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.02 17:04:52 INFO  shutting down Metals[0m
+[0m2021.03.03 21:59:17 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\Syur\OneDrive\Рабочий стол\Work\TestReactApp' for client vscode 1.53.2.[0m
+[0m2021.03.03 21:59:21 INFO  time: initialize in 4.23s[0m
+[0m2021.03.03 21:59:28 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.03 21:59:28 WARN  no build tool detected in workspace 'C:\Users\Syur\OneDrive\Рабочий стол\Work\TestReactApp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.03 22:26:21 INFO  shutting down Metals[0m
