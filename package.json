@@ -2,11 +2,14 @@
   "name": "testreactapp",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://syuremov-ng.github.io/React-App/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --mode development --watch",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
@@ -23,6 +26,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "gh-pages": "^3.1.0",
     "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
